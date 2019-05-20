@@ -24,8 +24,8 @@
     <label>Product Description: </label><%=des%><br/>$
     <label>Price: </label><%=price%><br/>
     <label>Discount Percent: </label><%=percent%>%<br>
-    <label>Discount Amount: </label><%=amount%><br>
-    <label>Discount Price: </label><%=discountPrice%><br>
+    <label>Discount Amount: </label><%=amount%>$<br>
+    <label>Discount Price: </label><%=discountPrice%>$<br>
 </div>
 </body>
 </html>
